@@ -1,3 +1,1 @@
-print("Hello Sanidhya")
-
-print("Hello Pravin!!")
+print("Hello buddy")
