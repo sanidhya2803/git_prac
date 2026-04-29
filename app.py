@@ -1,7 +1,1 @@
 print("Hello Sanidhya")
-print("Hello Sanidhya")
-print("Hello Sanidhya")
-print("Hello Sanidhya")
-print("Hello Sanidhya")
-print("Hello Sanidhya")
-print("Hello Sanidhya")
